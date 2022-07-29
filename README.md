@@ -13,7 +13,7 @@ used Metamask, Truffle framework and Ganache
 
 ![1  ui](https://user-images.githubusercontent.com/71513291/181823995-dd445afe-8d4b-4837-9038-6ce25d5c053d.png)
 
-# Step 2 : Select which party or cnadidate you want to vote
+# Step 2 : Select which party or candidate you want to vote
 
 ![2  select party](https://user-images.githubusercontent.com/71513291/181823998-a51b6923-5961-4199-b36f-ab4461e2d8c3.png)
 
