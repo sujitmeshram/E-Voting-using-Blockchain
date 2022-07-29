@@ -2,9 +2,7 @@
 
 Government spends a lots of capital on just for the voting purpose. In today's tech era, where everything is digitalized, we have to take step forward and adapt online voting solution for voting purposes, where voter can vote from remotely anywhere through internet.
 
-Online voting system app uses blockchain to make voting system much more secure and efficient for voting purpose. Because of the blockchain technology, the voting data is decentralized and immutable and that's make this app very secured and special. 
-
-Because of blockchain's decentralized and immutable property, no one can manipulate with the voting data and business logic. 
+Online voting system app uses blockchain to make voting system much more secure and efficient for voting purpose. Because of the blockchain technology, the voting data is decentralized and immutable and that's make this app very secured and special, and since blockchain has decentralized and immutable property, no one can manipulate with the voting data and business logic. 
 
 used Metamask, Truffle framework and Ganache
 
