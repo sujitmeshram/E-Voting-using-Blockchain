@@ -10,7 +10,7 @@
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sujit, Vikas",
+  "author": "Sujit, Vikas, Yash",
   "license": "MIT",
   "devDependencies": {
     "lite-server": "^2.3.0",
