@@ -1,13 +1,41 @@
-# Online Voting System using Blockchain 
+# Ethereum Voting Platform
 
-Government spends a lots of capital on just for the voting purpose. In today's tech era, where everything is digitalized, we have to take step forward and adapt online voting solution for voting purposes, where voter can vote from remotely anywhere through internet.
+> Built online voting platform using ethereum blockchain technology
 
-Online voting system app uses blockchain to make voting system much more secure and efficient for voting purpose. Because of the blockchain technology, the voting data is decentralized and immutable and that's make this app very secured and special, and since blockchain has decentralized and immutable property, no one can manipulate or play with the voting data and business logic. 
+Government spends a lots of capital on just for the voting purpose. In today's tech era, where everything is digitalized, we have to take step forward and adapt online voting solution for voting purposes, where voter can vote from remotely anywhere through internet, it should be in the secure and legit way.
+
+Online voting system app uses blockchain to make voting system much more secure and efficient for voting purpose. Because of the blockchain technology, the voting data is decentralized and immutable and that's make this app very secured and special, and since blockchain has decentralized and immutable property, no one can manipulate or play with the voting data and business logic.
 
 Technology Used: Metamask, Truffle framework and Ganache
 
+## Step 1 : Install Dependencies
 
-# DEMO: 
+```
+npm install
+
+```
+
+## Step 2. Download and Start Ganache
+
+Open the Ganache GUI client. This will start your local blockchain instance.
+
+## Step 3. Compile & Deploy Election Smart Contract
+
+`$ truffle migrate --reset`
+You must migrate the election smart contract each time your restart ganache.
+
+## Step 4. Configure Metamask
+
+- Unlock Metamask
+- Connect metamask to your local Etherum blockchain provided by Ganache.
+- Import an account provided by ganache.
+
+## Step 5.
+
+`$ npm run dev`
+Visit this URL in your browser: http://localhost:3000
+
+# DEMO:
 
 # Step 1 : Simple and Easy to understand User Interface
 
@@ -28,5 +56,3 @@ Technology Used: Metamask, Truffle framework and Ganache
 # Step 5 : Voting Transaction Confirmed
 
 ![5  transaction complete](https://user-images.githubusercontent.com/71513291/181823988-d50aa06c-69f6-4758-9965-42c9b9ebd195.png)
-
-
